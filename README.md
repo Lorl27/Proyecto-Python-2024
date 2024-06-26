@@ -18,3 +18,5 @@ Para el mismo, utilizamos Python
   - streamlit
   - streamlit-extras
   - streamlit-option-menu
+
+* Para visualizarlo, escribir en la consola: ``` streamlit run main.py ```
